@@ -16,7 +16,7 @@ function generateRays() {
 generateRays();
 
 const redirect = document.createElement('a');
-redirect.href = '../pages/start.html';
+redirect.href = 'pages/start.html';
 redirect.style.display = 'none';
 document.body.appendChild(redirect);
 
